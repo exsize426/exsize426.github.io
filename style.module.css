@@ -1,0 +1,112 @@
+@import '/fonts.css';
+
+.header {
+    width: 1920px;
+    height: 867px;
+}
+
+body {
+    font-family: Roboto;
+    width: 1920px;
+}
+
+.text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.logo-container {
+    width: 680px;
+    height: 80px;
+    margin: 20px 340px;
+}
+
+.logo-wrapper {
+    width: 211px;
+    height: 80px;
+    padding: 5px 0 5px 0;
+    display: inline-block;
+    
+}
+
+.logo-eda {
+    width: 211px;
+    height: 50px;
+    padding-left: 1px;
+    
+ 
+}
+
+.logo-partner {
+   width: 186px;
+   height: 20px;
+   margin: 50px 8px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.spiral {
+    width: 45px;
+    height: 50px;
+}
+
+.logo-spiral {
+    float: left;
+    width: 45px;
+    height: 50px;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+
+.logo-title {
+    width: 166px;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.logo-partner {
+    width: 186px;
+    height: 20px;
+    margin: 0;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.button {
+    width: 197px;
+    height: 52px;
+    border-radius: 5px;
+    padding: 12px 16px;
+    font-weight: 400;
+    font-size: 24px;
+    font-style: normal;
+    margin-top: 14px;
+    display: inline-block;
+    float: right;
+    line-height: 28.13px;
+    
+}
+
+.block-one {
+    width: 626px;
+    height: 160px;
+    margin: 325px 340px;
+    
+}
+
+.block-one h1 {
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 84.38px;
+    margin: 0 auto;
+}
+
+.salary-price {
+    width: 250px;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
