@@ -11,7 +11,7 @@ body {
     
 }
 
-main {
+.block-plus {
     margin-left: 340px;
     width: 1920px;
     height: 543px;
@@ -299,3 +299,78 @@ main {
 .shcool:hover {
     transform: scale(1.2);
 }
+
+.block-container-reviews h1 {
+    width: 651px;
+    height: 75px;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75px;
+    letter-spacing: -0.61px;
+}
+
+.block-reviews {
+    display: flex;
+    width: 1,240px;
+    height: 472px;
+    gap: 20px;
+}
+
+.block-container-reviews {
+    margin-left: 340px;
+}
+
+.velokurier, .pedestrial, .phoneAnna {
+    width: 400px;
+    height: 472px;
+}
+
+.motokura, .onFoot, .phoneOnHand {
+    width: 400px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.velokurier-info, .pedestrial-info, .phoneAnna-info {
+    width: 400px;
+    height: 172px;
+    background-color: #EDEFF1;
+
+}
+
+.velokurier-wrapper,.pedestrial-wrapper-info, .phoneAnna-wrapper-info {
+    padding: 20px;
+}
+
+.vyacheslav-flex, .anton-flex, .anna-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.anton,.vyacheslav, .anna  {
+    width: 360px;
+    height: 21px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.09px;
+    letter-spacing: -0.44px;
+    text-align: left;
+    margin: 0px;
+
+}
+
+.anton-feedback,.vyacheslav-feedback, .anna-feedback  {
+    width: 360px;
+    height: 76px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    letter-spacing: -0.44px;
+    text-align: left;
+    color: #656565;
+}
+
+.anna-feedback {
+    margin-top: 15px;
+}
+
