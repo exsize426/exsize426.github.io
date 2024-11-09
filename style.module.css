@@ -3,12 +3,17 @@
 .header {
     width: 1920px;
     height: 867px;
+    
 }
 
 body {
     font-family: Roboto;
     width: 1920px;
-    
+    margin: 0;
+}
+
+.header-label {
+    background: url("/img/header-background.jpg") no-repeat right;
 }
 
 .block-plus {
@@ -26,7 +31,7 @@ body {
 .logo-container {
     width: 680px;
     height: 80px;
-    margin: 20px 340px;
+    padding: 20px 340px;
 }
 
 .logo-wrapper {
@@ -94,6 +99,7 @@ body {
     float: right;
     line-height: 28.13px;
     background-color: #FFFFFF;
+    
     
 }
 
