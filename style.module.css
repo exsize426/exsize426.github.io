@@ -380,3 +380,17 @@ body {
     margin-top: 15px;
 }
 
+.slider {
+    width: 68px;
+    height: 12px;
+    margin: 20px 37%;
+}
+
+#r1, #r2, #r3 {
+    width: 12px;
+    height: 12px;
+    border-radius: 100px 0px 0px 0px;
+    accent-color: #000000;
+    cursor: pointer;
+}
+
